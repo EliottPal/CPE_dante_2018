@@ -8,4 +8,5 @@ Project composed by 2 programs:
 
 
 Generator made by Meven Dugor (https://github.com/Assurio)
+
 Solver made by Eliott Palueau (https://github.com/EliottPal)
